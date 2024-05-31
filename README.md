@@ -1,7 +1,7 @@
 
 ## Aspiring Full-Stack Developer & ICT Student 🎓💻
 
-👋 Hi there! I'm Himal Aryal, an aspiring full-stack developer and ICT student with a passion for creating innovative software solutions.
+👋 Hi there! I'm Ömer Faruk Koran, an aspiring full-stack developer and ICT student with a passion for creating innovative software solutions.
 
 ### About Me
 
