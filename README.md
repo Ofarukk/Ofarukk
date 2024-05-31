@@ -22,7 +22,7 @@
 📫 Interested in collaborating on a project or discussing software development? Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](linkedin.com/in/ömer-faruk-koran-9ab567304)
-[![Gmail](https://img.shields.io/badge/-Gmail-1877F2?style=flat&logo=gmail)](ofarukkoran@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-1877F2?style=flat&logo=gmail)](mailto:ofarukkoran@gmail.com)
 
 
 
